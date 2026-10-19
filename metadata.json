@@ -1,0 +1,7 @@
+{
+  "name": "Snapi - TikTok Clone",
+  "description": "Short-form video sharing platform with For You feed, following, creator studio, search, comments, and profile management.",
+  "prompt": "Rewrite TikTok Clone as a React application preserving core features and business logic.",
+  "version": "1.0.0",
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

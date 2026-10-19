@@ -1,5 +1,0 @@
-export { UserTable } from './user-table'
-export { BanUserDialog } from './ban-user-dialog'
-export { UnbanUserDialog } from './unban-user-dialog'
-export { DeleteUserDialog } from './delete-user-dialog'
-export { RestoreUserDialog } from './restore-user-dialog'

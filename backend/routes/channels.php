@@ -1,5 +1,0 @@
-<?php
-
-/**
- * Channels API routes
- */
